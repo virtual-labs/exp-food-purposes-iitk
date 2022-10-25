@@ -2,38 +2,50 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The indicator used in determination of hardness of water by EDTA method is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Phenolphthalein",                  ///// Write the option 1 inside double quotes
+        "b": "Phenolphthalein",                  ///// Write the option 2 inside double quotes
+        "c": "Methylene blue",                  ///// Write the option 3 inside double quotes
+        "d": "Methylene orange"                   ///// Write the option 4 inside double quotes
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Hardness of sample is calculated in terms of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "CaCo3",                  ///// Write the option 1 inside double quotes
+        "b": "MgCo3",                  ///// Write the option 2 inside double quotes
+        "c": "MgCo3",                  ///// Write the option 3 inside double quotes
+        "d": "MgCo3"                   ///// Write the option 4 inside double quotes
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "3. The pH of ammonia buffer solution used in determination of hardness by EDTA method is",
+      "answers": {
+        "a": "4.0±0.1",                  ///// Write the option 1 inside double quotes
+        "b": "7.0±0.1",                  ///// Write the option 2 inside double quotes
+        "c": "10±0.1",                  ///// Write the option 3 inside double quotes
+        "d": "10±0.1"                   ///// Write the option 4 inside double quotes
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "c"
+      
+    },
+    {
+      "question": "The color of end point of titration in hardness determination by EDTA method is",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Red",                  ///// Write the option 1 inside double quotes
+        "b": "Blue",                  ///// Write the option 2 inside double quotes
+        "c": "Orange",                  ///// Write the option 3 inside double quotes
+        "d": "Yellow"                   ///// Write the option 4 inside double quotes
+      },
+      
+      "correctAnswer": "b"
+      
     }
   ]
 }
