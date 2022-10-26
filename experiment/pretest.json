@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Permanent hardness caused due to the presence of salt of",  
+      "question": "1. Permanent hardness caused due to the presence of salt of",  
       "answers": {
         "a": "Bicarbonate",                  
         "b": "Chlorides",                
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "Hard water is not suitable for",  
+      "question": "3. Hard water is not suitable for",  
       "answers": {
         "a": "Cooking",                  
         "b": "Drinking",                 
@@ -36,7 +36,7 @@
       
     },
     {
-      "question": "EDTA method of determining hardness of water can be used to determine", 
+      "question": "4. EDTA method of determining hardness of water can be used to determine", 
       "answers": {
         "a": "Total hardness",                 
         "b": "Temporary hardness only",                 
