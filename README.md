@@ -16,7 +16,7 @@ Soft: 0-60 mg/L; Medium: 60-120 mg/L; Hard: 120-180 mg/L and Very hard: > 180 mg
 
 Ethylene diamine tetraacetic acid (EDTA) forms a stable complex with calcium or magnesium at pH 10. The metal ion indicator Eriochrome black T (EBT), are pink when complexed to metal ions but blue when no metal ions are complexed to them. The indicator binds to metal ions less strongly than does EDTA. When the indicator is added to a solution containing metal ions, the solution becomes pink. When EDTA is added as titrant to the mineral containing sample; metal ions preferentially complex with the EDTA while leaving the indicator without a metal ion to complex. When enough EDTA has been titrated to complex with all the metal ions present, the indicator appears blue. This blue color is the endpoint of the titration. The volume and concentration of the EDTA in the titration are used to calculate the concentration of calcium in the sample, which is expressed as mg calcium carbonate/L.
 
-<img src="images/formula1.png" width="500">
+<img src="experiment/images/formula1.png" width="500">
 
 <b>Name of Developers | <b> Prof. Kantesh Balani
 :--|:--|
