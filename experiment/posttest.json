@@ -36,12 +36,12 @@
       
     },
     {
-      "question": "The color of end point of titration in hardness determination by EDTA method is",  ///// Write the question inside double quotes
+      "question": "The color of end point of titration in hardness determination by EDTA method is",  
       "answers": {
-        "a": "Red",                  ///// Write the option 1 inside double quotes
-        "b": "Blue",                  ///// Write the option 2 inside double quotes
-        "c": "Orange",                  ///// Write the option 3 inside double quotes
-        "d": "Yellow"                   ///// Write the option 4 inside double quotes
+        "a": "Red",                  
+        "b": "Blue",                 
+        "c": "Orange",                  
+        "d": "Yellow"                   
       },
       
       "correctAnswer": "b"
