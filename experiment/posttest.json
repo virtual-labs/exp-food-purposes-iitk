@@ -4,20 +4,20 @@
     {
       "question": "1. The indicator used in determination of hardness of water by EDTA method is",
       "answers": {
-        "a": "Phenolphthalein",                  ///// Write the option 1 inside double quotes
-        "b": "Phenolphthalein",                  ///// Write the option 2 inside double quotes
-        "c": "Methylene blue",                  ///// Write the option 3 inside double quotes
-        "d": "Methylene orange"                   ///// Write the option 4 inside double quotes
+        "a": "Phenolphthalein",                 
+        "b": "Phenolphthalein",                  
+        "c": "Methylene blue",                  
+        "d": "Methylene orange"                 
       },
       "correctAnswer": "d"
     },
     {
       "question": "2. Hardness of sample is calculated in terms of",
       "answers": {
-        "a": "CaCo3",                  ///// Write the option 1 inside double quotes
-        "b": "MgCo3",                  ///// Write the option 2 inside double quotes
-        "c": "MgCo3",                  ///// Write the option 3 inside double quotes
-        "d": "MgCo3"                   ///// Write the option 4 inside double quotes
+        "a": "CaCo3",                  
+        "b": "MgCo3",                  
+        "c": "MgCo3",                  
+        "d": "MgCo3"                   
       },
       
       "correctAnswer": "a"
@@ -26,10 +26,10 @@
     {
       "question": "3. The pH of ammonia buffer solution used in determination of hardness by EDTA method is",
       "answers": {
-        "a": "4.0±0.1",                  ///// Write the option 1 inside double quotes
-        "b": "7.0±0.1",                  ///// Write the option 2 inside double quotes
-        "c": "10±0.1",                  ///// Write the option 3 inside double quotes
-        "d": "10±0.1"                   ///// Write the option 4 inside double quotes
+        "a": "4.0±0.1",                  
+        "b": "7.0±0.1",                  
+        "c": "10±0.1",                 
+        "d": "10±0.1"                   
       },
       
       "correctAnswer": "c"
