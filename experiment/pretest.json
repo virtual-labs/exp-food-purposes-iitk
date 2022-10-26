@@ -2,46 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Permanent hardness caused due to the presence of salt of",  ///// Write the question inside double quotes
+      "question": "Permanent hardness caused due to the presence of salt of",  
       "answers": {
-        "a": "Bicarbonate",                  ///// Write the option 1 inside double quotes
-        "b": "Chlorides",                  ///// Write the option 2 inside double quotes
-        "c": "Iodides",                  ///// Write the option 3 inside double quotes
-        "d": "Fluorides"                   ///// Write the option 4 inside double quotes
+        "a": "Bicarbonate",                  
+        "b": "Chlorides",                
+        "c": "Iodides",                  
+        "d": "Fluorides"                   
       },
       "correctAnswer": "b"
     },
     {
       "question": "2. The acceptable hardness range of drinking water is",
       "answers": {
-        "a": "50-100 mg/l",                  ///// Write the option 1 inside double quotes
-        "b": "100-200 mg/l",                  ///// Write the option 2 inside double quotes
-        "c": "400-500 mg/l",                  ///// Write the option 3 inside double quotes
-        "d": "600-700 mg/l"                   ///// Write the option 4 inside double quotes
+        "a": "50-100 mg/l",                  
+        "b": "100-200 mg/l",               
+        "c": "400-500 mg/l",                  
+        "d": "600-700 mg/l"                   
       },
       
       "correctAnswer": "b"
       
     },
     {
-      "question": "Hard water is not suitable for",  ///// Write the question inside double quotes
+      "question": "Hard water is not suitable for",  
       "answers": {
-        "a": "Cooking",                  ///// Write the option 1 inside double quotes
-        "b": "Drinking",                  ///// Write the option 2 inside double quotes
-        "c": "Washing",                  ///// Write the option 3 inside double quotes
-        "d": "All of the above"                   ///// Write the option 4 inside double quotes
+        "a": "Cooking",                  
+        "b": "Drinking",                 
+        "c": "Washing",                  
+        "d": "All of the above"                  
       },
       
       "correctAnswer": "d"
       
     },
     {
-      "question": "EDTA method of determining hardness of water can be used to determine",  ///// Write the question inside double quotes
+      "question": "EDTA method of determining hardness of water can be used to determine", 
       "answers": {
-        "a": "Total hardness",                  ///// Write the option 1 inside double quotes
-        "b": "Temporary hardness only",                  ///// Write the option 2 inside double quotes
-        "c": "Permanent hardness only",                  ///// Write the option 3 inside double quotes
-        "d": "All of the above"                   ///// Write the option 4 inside double quotes
+        "a": "Total hardness",                 
+        "b": "Temporary hardness only",                 
+        "c": "Permanent hardness only",                  
+        "d": "All of the above"                   
       },
       
       "correctAnswer": "a"
