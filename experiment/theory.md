@@ -1,5 +1,3 @@
-
-
 Water is an important ingredient used for drinking purpose and also in preparation of various food products. Quality of water plays important role in imparting desired properties to the processed products. Also, the drinking water is a good source of minerals but a limited amount is desired. The presence of different ions in water and their level affect the quality of water.
 
 Water quality is analysed in different terms like hardness, chlorine content, chloride residue etc. Hardness of water is no specific constituent but is a variable and complex mixture of cations and anions. It is caused by dissolved polyvalent metallic ions. In fresh water, the principle hardness causing ions are calcium and magnesium. The other ions like Strontium, Iron, Barium and Manganese also contribute. Hardness is commonly expressed as CaCO3 in mg/L. The degree of hardness of drinking water has been classified in terms of the equivalent CaCO<sub>3</sub> concentration as:
