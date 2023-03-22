@@ -1,57 +1,112 @@
-#### Please use the [reference](https://github.com/virtual-labs/ph3-exp-dev-process/blob/main/storyboard/README.org) document to fill this template. Follow the [link](https://github.com/virtual-labs/ph3-exp-dev-process/tree/main/sample/storyboard) to view a sample storyboard document. 
+## Storyboard (Round 2)
 
+Experiment 3: Analysis of water for potable and food purposes
 
+### 1. Story Outline:
 
-## Storyboard
+This experiment involves first of sample selection and the adjustment of its pH using ammonia buffer. Then confirm the pH using pH meter and after that addition of EBT indicator to it.  To complete the experiment, titration of the sample is desirable which starts with addition of EDTA standard solution to burette and continue till red color of sample solution changes to blue color completely. After that, volume of titrant used is recorded. Then on the basis of obtained data analysis of water in terms of hardness (mg/l CaCO3) is done. Then analysis of this data will give quality of water in terms of hardness.
 
-Delete this line before submission : The core principle of storyboarding is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
+The main objective of this experiment is to analyze water sample for potable and food purposes. During the operation student will be able to relate theoretical concept of sample preparation and understand new concepts as pH adjustment. User will able to apply concept of complexometric titration and analyze sample by titration process and determine hardness of water. Further based on the results, user will be able to estimate about quality of water.
 
-Experiment 1: Name of the Experiment
+### 2. Story:
 
-### 1. Story Outline
-
-Describe outline here ( Guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
-
-### 2. Story
-
-Describe the Story introduction here (Guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+First users will get themselves familiar with the experimental set-up and then take the desired of water sample for its further use. Then user will adjust pH to 10 by adding ammonia buffer. User will now with the help of pH meter confirm whether pH is adjusted or not. Once confirmed, now user will add 2-3 drops of EBT indicator in sample conical flask. User will fill the burette with standard EDTA solution and start titration of sample by opening knob of burette. User will observe the color change from red to blue and once it is completely blue color, user will stop the process by closing knob of burette. User will record the volume of titrant and use it for calculation. After calculation and results, user can analyze the data and predict the quality of water in terms of hardness.
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (Guide : When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+
+In the simulator user will be able to see the virtual prototype of experimental set up resembling the actual experimental set up that is present in real time labs. For pH adjustment to 10, ammonia buffer is available. Then EBT is used as indicator. The titration set up EDTA standard solution in burette will be used to determine the end point by titrating water sample and titration is done to reach end point when red color of sample changes to blue color.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (Guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. in descriptive))
+
+1.	The prime object of this experiment is to determine analyze heat stability of vitamin C.
+2.	User will be able to relate the theoretical concept of sample preparation.
+3.	User will be able to explain concept of pH adjustment.
+4.	User will be able to apply the concept of complexometric titration.
+5.	User will be able to analyze the sample by titration process.
+6.	User will be able to determine hardness of water sample and estimate the quality of water.
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in introductory & pedagogy documnets.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1.	User will get familiar with all experimental setups and materials/reagents used.
+2.	For analysis, user will take 25 ml water in conical flask.
+3.	User will add ammonia buffer solution to adjust pH 10.
+4.	Simulator will display confirmation of pH using pH meter.
+5.	After confirmation, user will addd EBT indicator to sample flask.
+6.	User will place the sample conical flask under burette having standard EDTA solution and press ‘Open knob’ Tab of the burette.
+7.	Simulator will display the titration process and change in color of sample as per step.
+8.	Once titration is completed, user will press ‘Observation table’ and ‘Result & calculation’ Tab.
+9.	Simulator will provide the result after calculation based on observed data.
+10.	By analyzing result values of hardness, user will be able to predict about quality of water sample.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (Guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Difficulty level: Remember (LO1)
+
+1.	The purpose of addition of ammonia solution in the sample is <br>
+<b>a)	To adjust pH</b><br>
+b)	To dissolve calcium salt<br>
+c)	Both (a) and (b)<br>
+d)	None of the above<br>
+
+Difficulty level: Understand (LO2)
+
+2.	The optimum pH for the determination of hardness of water is <br>
+a)	4±0.1<br>
+b)	7±0.1<br>
+<b>c)	10±0.1</b><br>
+d)	12±0.1<br>
+
+Difficulty level: Apply (LO3)
+
+3.	When EBT forms complex with calcium and magnesium ions, their color will be<br> 
+a)	Blue<br>
+<b>b)	Red</b><br>
+c)	Black<br>
+d)	Yellow<br>
+
+Difficulty level: Analyze (LO4)
+
+4.	Complexometric titrations are useful for the determination of<br>
+<b>a)	metal ions in solution</b><br>
+b)	pH of solution<br>
+c)	acidity of solution<br>
+d)	solute matter in solution<br>
+
+Difficulty level: Evaluate (LO5)
+
+5.	Which of the following water has good quality in terms of hardness <br>
+a)	Borewell water<br>
+b)	Municipal water <br> 
+<b>c)	Treated water</b><br>
+d)	Sea water<br>
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (Guide : while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive)
+During the titration step, user will be allowed to over titrate the sample by continuing addition of titrant after color change (that indicates end point of titration). The pitfall will show ‘Over-titrated’ and user is not able to move to next step and user has to go back to the step 1 of sample preparation and perform again.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (Guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+User will take approximate 5-7 minutes for understanding the procedure. Then for generating data by the help of simulator will take 8-10 minutes. After onwards for calculating result will take 2-3 minutes. Hence, total time taken for doing experiment will be approximately 15-20 minutes.
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (Guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+<img src="images/formula1.png" width="500">
 
 
-### 3. Flowchart
-Link to flow chart Here : Store in the  /flowchart folder within pedagogy folder in your repo
-<br>
-(Guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
+### 3. Flowchart 4
+<img src="flowchart/flowchart.png"/>
+<br />
+<br />
 
-### 4. Mindmap
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (Guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
+### 4. Mindmap:
+<img src="mindmap/mindmap.png"/>
+<br />
+<br />
 
-### 5. Storyboard
+### 5. Storyboard :
 
-Link the storyboard (.gif file ) in here :
-(Guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool).
+<img src="storyboard/0.png" width="500">
+<img src="storyboard/1.png" width="500">
+<img src="storyboard/2.png" width="500">
+<img src="storyboard/3.png" width="500">
+<img src="storyboard/4.png" width="500">
+<img src="storyboard/5.png" width="500">
+<img src="storyboard/6.png" width="500">
+<img src="storyboard/7.png" width="500">
