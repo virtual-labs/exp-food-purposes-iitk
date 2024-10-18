@@ -16,9 +16,12 @@ function part42() {
         lottie4.playSegments([135, 390], true)
 
         gsap.to('#step-4 .control-2', {opacity: 0})
-        gsap.to('#step-4 .control-2', {delay: "8", onComplete: () => {
-            task_done = true
-            addTask('Step 4')
-        }}) 
+        setTimeout(() => {
+            
+            gsap.to('#step-4 .control-2', {delay: "8", onComplete: () => {
+                task_done = true
+                addTask('Step 4: Add 2-3 drops of EBT indicator in the sample conical flask')
+            }}) 
+        }, 3000);
     }
 }
