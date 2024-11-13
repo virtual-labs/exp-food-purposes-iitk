@@ -93,11 +93,11 @@
       question: "The indicator used in determination of hardness of water by EDTA method is",  ///// Write the question inside double quotes
       answers: {
         a: "Phenolphthalein",                  ///// Write the option 1 inside double quotes
-        b: "Phenolphthalein",                  ///// Write the option 2 inside double quotes
+        b: "Eriochrome Black T",                  ///// Write the option 2 inside double quotes
         c: "Methylene blue",                  ///// Write the option 3 inside double quotes
         d: "Methylene orange"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
@@ -105,8 +105,8 @@
       answers: {
         a: "CaCo3",                  ///// Write the option 1 inside double quotes
         b: "MgCo3",                  ///// Write the option 2 inside double quotes
-        c: "MgCo3",                  ///// Write the option 3 inside double quotes
-        d: "MgCo3"                   ///// Write the option 4 inside double quotes
+        c: "CaSo4",                  ///// Write the option 3 inside double quotes
+        d: "MgSo4"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
@@ -117,7 +117,7 @@
         a: "4.0±0.1",                  ///// Write the option 1 inside double quotes
         b: "7.0±0.1",                  ///// Write the option 2 inside double quotes
         c: "10±0.1",                  ///// Write the option 3 inside double quotes
-        d: "10±0.1"                   ///// Write the option 4 inside double quotes
+        d: "12±0.1"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
