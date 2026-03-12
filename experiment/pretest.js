@@ -131,7 +131,29 @@
         d: "All of the above"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
+    },   
+    {
+      question: "Which of the following process does not remove the permanent hardness of water?",  ///// Write the question inside double quotes
+      answers: {
+        a: "Heating",                  ///// Write the option 1 inside double quotes
+        b: "Zeolite process",                  ///// Write the option 2 inside double quotes
+        c: "Lime-soda",                  ///// Write the option 3 inside double quotes
+        d: "Ion exchange process"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },
+    {
+      question: "Water that gives little lather is called",  ///// Write the question inside double quotes
+      answers: {
+        a: "dirty water",                  ///// Write the option 1 inside double quotes
+        b: "hard water",                  ///// Write the option 2 inside double quotes
+        c: "soft water",                  ///// Write the option 3 inside double quotes
+        d: "clean water"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+    
+    ///// To add more questions, copy the section below 
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
