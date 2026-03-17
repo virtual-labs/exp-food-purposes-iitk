@@ -112,17 +112,6 @@
     },                                  ///// To add more questions, copy the section below 
 
     {
-      question: "Hard water is not suitable for",  ///// Write the question inside double quotes
-      answers: {
-        a: "Cooking",                  ///// Write the option 1 inside double quotes
-        b: "Drinking",                  ///// Write the option 2 inside double quotes
-        c: "Washing",                  ///// Write the option 3 inside double quotes
-        d: "All of the above"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-
-    {
       question: "EDTA method of determining hardness of water can be used to determine",  ///// Write the question inside double quotes
       answers: {
         a: "Total hardness",                  ///// Write the option 1 inside double quotes
