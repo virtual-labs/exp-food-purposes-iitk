@@ -110,17 +110,7 @@
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-
-    {
-      question: "EDTA method of determining hardness of water can be used to determine",  ///// Write the question inside double quotes
-      answers: {
-        a: "Total hardness",                  ///// Write the option 1 inside double quotes
-        b: "Temporary hardness only",                  ///// Write the option 2 inside double quotes
-        c: "Permanent hardness only",                  ///// Write the option 3 inside double quotes
-        d: "All of the above"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
-    },   
+    
     {
       question: "Which of the following process does not remove the permanent hardness of water?",  ///// Write the question inside double quotes
       answers: {
